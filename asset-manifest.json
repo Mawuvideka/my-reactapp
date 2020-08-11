@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-reactapp/static/css/main.b1d6d1c3.chunk.css",
+    "main.js": "/my-reactapp/static/js/main.898709a9.chunk.js",
+    "main.js.map": "/my-reactapp/static/js/main.898709a9.chunk.js.map",
+    "runtime-main.js": "/my-reactapp/static/js/runtime-main.89b30ccf.js",
+    "runtime-main.js.map": "/my-reactapp/static/js/runtime-main.89b30ccf.js.map",
+    "static/js/2.078294fe.chunk.js": "/my-reactapp/static/js/2.078294fe.chunk.js",
+    "static/js/2.078294fe.chunk.js.map": "/my-reactapp/static/js/2.078294fe.chunk.js.map",
+    "index.html": "/my-reactapp/index.html",
+    "precache-manifest.b81a2c334af44adb536c58bcdabd787f.js": "/my-reactapp/precache-manifest.b81a2c334af44adb536c58bcdabd787f.js",
+    "service-worker.js": "/my-reactapp/service-worker.js",
+    "static/css/main.b1d6d1c3.chunk.css.map": "/my-reactapp/static/css/main.b1d6d1c3.chunk.css.map",
+    "static/js/2.078294fe.chunk.js.LICENSE.txt": "/my-reactapp/static/js/2.078294fe.chunk.js.LICENSE.txt",
+    "static/media/CROPPED-IMG_3366.JPG": "/my-reactapp/static/media/CROPPED-IMG_3366.157acc88.JPG",
+    "static/media/DSC_0099.jpg": "/my-reactapp/static/media/DSC_0099.d015089d.jpg",
+    "static/media/image.jpg": "/my-reactapp/static/media/image.b355937c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89b30ccf.js",
+    "static/js/2.078294fe.chunk.js",
+    "static/css/main.b1d6d1c3.chunk.css",
+    "static/js/main.898709a9.chunk.js"
+  ]
+}
